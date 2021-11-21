@@ -5,7 +5,7 @@ variable "region" {
 variable "tag" {}
 
 variable "ami_name_value" {
-  default = "amzn-ami-vpc-nat*"
+  default = "ami-090f920d1b48d8c81"
 }
 
 variable "ami_virtualization_type" {
